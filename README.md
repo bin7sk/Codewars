@@ -1,1 +1,1 @@
-Here i solve problems from Codewars
+Here I solve problems from Codewars
